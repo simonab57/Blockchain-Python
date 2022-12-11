@@ -1,5 +1,5 @@
 ## Overview of the Analysis: Blockchain-Python
-Building a blockcahin-based ledger system with a user-friendly web interface. This ledger can be used in many instances such as acting as a ledger that allow partner banks to conduct financial transactions, and to verify the integrity of the data. 
+Building a blockchain-based ledger system with a user-friendly web interface. This ledger can be used in many instances such as acting as a ledger that allow partner banks to conduct financial transactions, and to verify the integrity of the data. 
 
 
 ## Technology
